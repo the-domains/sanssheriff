@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SansSheriff]]></title>
+        <description><![CDATA[SansSheriff]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 22:12:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Lake|Flato Website]]></title>
+            <description><![CDATA[<article><h1>New Lake|Flato Website</h1><p>Test Post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a86f62b3f665a9ddcdd4b4975b466d9f113c2d3d.jpg"></article>]]></description>
+            <link>undefinednew-lakeorflato-website/index.html</link>
+            <guid isPermaLink="false">3f43ac1f-0fc3-453d-a61a-88a46aa70432</guid>
+            <pubDate>Wed, 13 Jan 2016 22:12:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
